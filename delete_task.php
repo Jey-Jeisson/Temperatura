@@ -12,6 +12,6 @@
         $_SESSION['message'] = 'Eliminado Exitosamente';
         $_SESSION['message_type'] = 'danger';
 
-        header("location: index.php");
+        header("Location: index.php");
     }
 ?>
