@@ -1,6 +1,6 @@
 lenguage: php
 php:
-  -"7.4.3"
+  -"7.4.3(cli)"
 #comand to install dependences
 install:
   -pip install -r requirements.txt
